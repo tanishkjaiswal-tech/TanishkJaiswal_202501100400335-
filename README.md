@@ -9,7 +9,7 @@ This website helps users explore travel destinations, view photos, check tour pr
 ---
 
 ## 📂 Project Structure
-- `index.html` →[https://tanishkjaiswal-tech.github.io/TanishkJaiswal_202501100400335-/]
+- `index.html` →[Explore the website][https://tanishkjaiswal-tech.github.io/TanishkJaiswal_202501100400335-/]
 
 ---
 
